@@ -5,7 +5,7 @@ def calculate_total(amount, tax):
     return total
 
 
-amount = 1000
+amount = 10000
 tax = 0.07
 
 result = calculate_total(amount, tax)
